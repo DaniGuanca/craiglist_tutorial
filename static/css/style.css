@@ -1,9 +1,18 @@
+html {
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+    color: darkgray;
+}
+
+h1 {
+    color: darkgray;
+}
+
 .card {
-    height: 400px; /* Your height here */
+    height: 400px;
     overflow: hidden;
 }
 
 .card-image {
-    height: 250px; /* Your height here */
+    height: 250px;
     overflow: hidden;
 }
